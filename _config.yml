@@ -1,7 +1,9 @@
-title: vivo互联网技术
-author: vivo
-#email: 2020labs@vivo.com
-description: > # this means to ignore newlines until "baseurl:"
-  vivo互联网技术博客
+# basic setting
+title: vivo互联网技术 
+author: vivo 
+#email: 2020labs@vivo.com 
+description: > # this means to ignore newlines until "baseurl:" 
+  vivo互联网技术博客 
 
+# build setting 
 theme: jekyll-theme-cayman
